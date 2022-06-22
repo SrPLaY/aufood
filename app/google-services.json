@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334935691644",
+    "project_id": "aufood-cc438",
+    "storage_bucket": "aufood-cc438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334935691644:android:dfd602d430d72e41a014f9",
+        "android_client_info": {
+          "package_name": "aufood.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334935691644-jvj1tkqd7e5nq5936hibrln2gr8fgb72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aufood.com.br",
+            "certificate_hash": "87fe78cfceddb9fb2f1b8d40d2742322c963ea4f"
+          }
+        },
+        {
+          "client_id": "334935691644-h0gltj10asmkgbrusfnjo81hiv4112ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TjZCaQ7G4MuaJHQUHrZoeMkODCIP_no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334935691644-h0gltj10asmkgbrusfnjo81hiv4112ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
